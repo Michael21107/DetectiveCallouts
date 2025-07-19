@@ -7,7 +7,7 @@ using System.Reflection;
 using System.Runtime;
 using System.Threading;
 
-[assembly: Rage.Attributes.Plugin("DetectiveCallouts", Description = "Detective Callouts - Crime Scene Investigation", Author = "Seerside Studios")]
+[assembly: Rage.Attributes.Plugin("DetectiveCallouts", Description = "Callouts that take you on a mystery. Your job is to solve the case. What's next, detective?", Author = "Seerside Studios")]
 
 namespace DetectiveCallouts
 {

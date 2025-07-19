@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("DetectiveCallouts")]
-[assembly: AssemblyDescription("Callouts which take you on an mystery. Your job is to solve the case. What's next detective?")]
+[assembly: AssemblyTitle("Detective Callouts")]
+[assembly: AssemblyDescription("Callouts that take you on a mystery. Your job is to solve the case. What's next, detective?")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Seerside Studios")]
-[assembly: AssemblyProduct("DetectiveCallouts")]
+[assembly: AssemblyProduct("Detective Callouts")]
 [assembly: AssemblyCopyright("Copyright ©  2025 Seerside Studios")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
